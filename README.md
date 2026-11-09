@@ -2,6 +2,8 @@
 
 ### Todd Leven | Senior IT Account Executive | Public Sector / SLED | Cloud | SaaS | Cybersecurity | AI
 
+[View My Resume](./Todd-Leven-Senior-IT-Account-Executive-Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/todd-leven) | [Email](mailto:tleven01@gmail.com)
+
 I have spent much of my career helping customers solve complex technology and business problems. My goal has never been simply to present products. I want to understand the environment, ask better questions, bring the right people together, and help customers make better decisions.
 
 Throughout my career in technology sales, I have been fortunate to work alongside talented Solutions Engineers, technical specialists, executives, and customers who understood their environments at a very deep level. I was often impressed by how quickly a strong technical resource could see relationships between systems, identify risks, and translate complexity into something understandable.
