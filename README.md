@@ -1,2 +1,2 @@
-# todd-leven-professional-portfolio
-Professional portfolio highlighting technology sales, public-sector experience, data analytics, AI, customer problem solving, and mentoring.
+My Approach to Technology, Customers, and Problem Solving
+Todd Leven | Senior IT Account Executive | Public Sector / SLED | Cloud | SaaS | Cybersecurity | AI
